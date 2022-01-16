@@ -1,6 +1,8 @@
 # Isaac_L2projet
  The Binding of Isaac, réalisé pour le projet de fin de semestre en PO 
 
+https://github.com/rorooooooo/the_binding_of_isaac_L2S1project
+
 
 Génération du monde
 j'ai d'abord utilisé un graphe défini de ma création, que je "remplissais" avec des salles, en créeant les liens entre porte.
